@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Guerrinha</h1>
-<h3 align="center">A student of Informatic and Computing Engeneering at FEUP</h3>
+<h3 align="center">A Student of Informatic and Computing Engeneering at FEUP</h3>
 
 - 🔭 I’m currently working on a control system to a solar boat at [FAST](https://feupacademicsolarteam.fe.up.pt/)
 
