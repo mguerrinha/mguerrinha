@@ -35,3 +35,5 @@
 | [ESOF](https://github.com/mguerrinha/ESOF) | A mobile app that simplifies food management by tracking your groceries, notifying you when items are low or past their sell-by date. Easily add or update products, categorize them, and secure the app with a password for privacy. | 18.3 |
 | [LCOM](https://github.com/mguerrinha/LCOM) | "Last One Standing" is a game inspired by the Discord game Land-io. Players compete to expand their territory and outlast opponents, aiming to be the last player remaining on the map. | 17.98 |
 | [LTW](https://github.com/mguerrinha/LTW) | A website that facilitates the buying and selling of pre-loved items. | 14.4 |
+| [RCOM_1](https://github.com/mguerrinha/FEUP-RCOM-Proj1) | Development and evaluation of a custom data link application layer protocol for reliable file transmission  over an RS-232 serial connection. | 16.7 |
+| [RCOM_2](https://github.com/mguerrinha/FEUP-RCOM-Proj2) | Elaboration of an application protocol FTP to download a file and network configuration and analysis in a lab-controlled environment.  | 17.2 |
