@@ -25,4 +25,13 @@
 
 | UC   | Description                                                                                                                                                   | Grade (/20) |
 |------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-
+| [PROG](https://github.com/mguerrinha/project-pro) | In this project we used C++ to represent and process RGB color images with 8-bits per RGB channel. | 20.0 |
+| [AED_1](https://github.com/mguerrinha/AED_1) | Manage school schedules, allowing the manipulation of information related to students, classes, curricular units (UCs), and schedule change requests. | 17.93 |
+| [AED_2](https://github.com/mguerrinha/AED_2) | Models a network of flights and airports using a graph structure. | 18.6 |
+| [BD](https://github.com/mguerrinha/BD) |A database system for managing a transport company, handling data on companies, warehouses, vehicles, employees, and customer orders, enabling efficient operation tracking and management. | 17.6 |
+| [LDTS](https://github.com/mguerrinha/FEUP-LDTS-SpaceShooter) | Players control a spaceship to avoid meteors, destroy enemy ships, and collect power-ups. The goal is to achieve the highest score before the ship's health reaches zero. | 17.3 |
+| [DA_1](https://github.com/mguerrinha/DA_project_1) | A system that manages the water supply using graphs to model and analyze the network of cities, reservoirs, and pumping stations. | 19.1 |
+| [DA_2](https://github.com/mguerrinha/DA_2) | A system that solves the Travelling Salesperson Problem (TSP) using various algorithms and heuristics, applying them to graph structures representing distances between cities or points of interest. | 12.9 |
+| [ESOF](https://github.com/mguerrinha/ESOF) | A mobile app that simplifies food management by tracking your groceries, notifying you when items are low or past their sell-by date. Easily add or update products, categorize them, and secure the app with a password for privacy. | 18.3 |
+| [LCOM](https://github.com/mguerrinha/LCOM) | "Last One Standing" is a game inspired by the Discord game Land-io. Players compete to expand their territory and outlast opponents, aiming to be the last player remaining on the map. | 17.98 |
+| [LTW](https://github.com/mguerrinha/LTW) | A website that facilitates the buying and selling of pre-loved items. | 14.4 |
