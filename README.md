@@ -15,10 +15,16 @@
 
 <p> &nbsp; </p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mguerrinha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mguerrinha&layout=compact&langs_count=7&theme=dark"/>   
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mguerrinha&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mguerrinha&layout=compact&langs_count=7&theme=dark" height="180" />
+    </td>
+  </tr>
+</table>
 
 <h2 align = "center" >My Projects</h2>
 <p align = "center">
