@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Guerrinha</h1>
 <h3 align="center">A Student of Informatic and Computing Engeneering at FEUP</h3>
 
-- 🔭 I’m currently working on a control system to a solar boat at [FAST](https://feupacademicsolarteam.fe.up.pt/)
+- 🔭 I’m currently working as a junior software engineer [Critical Flytech](https://criticalflytech.com/)
 
 - 📫 How to reach me **mlguerrinha@gmail.com**
 
